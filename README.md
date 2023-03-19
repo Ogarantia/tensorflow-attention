@@ -1,4 +1,4 @@
-# Attetion mechanism example
+# Attention mechanism example
 
 This is a simple example of the attention mechanism using Tensorflow. It is handy for
 testing Ogre.
